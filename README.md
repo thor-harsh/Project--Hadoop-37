@@ -14,7 +14,7 @@ A MapReduce program is composed of a map procedure, which performs filtering and
 
 
 
-**Important Note: Go through the Marvel files before jumping to the code.**
+**Important Note: Go through the Marvel+Graph and Marvel+Names files before jumping to the code.**
 
 
 </table>
